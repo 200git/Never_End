@@ -1,5 +1,5 @@
 # 曙光 Never End
-![曙光](https://snowdrop0803.github.io/storyfile.github.io/曙光.png)
+![曙光](曙光.png)
 虽然曙光在未来的某天游戏化时，或许并没有真正意义上的游玩顺序，但对于游玩体验来说，还是献上了个人建议来的UwU：  
 
 
